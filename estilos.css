@@ -1,0 +1,16 @@
+body {
+	background: url(FondoRemi.jpg);
+	background-size:100% 100%;
+	background-attachment: fixed;
+}
+div {
+	width: 100%;
+}
+img {
+	width: 25%;
+	height: auto;
+	margin: auto;
+	display: block;
+	margin-top: 10%;
+	padding-left: 20%;
+}
